@@ -5863,6 +5863,7 @@ td.visible-print {
 }
 body {
   margin: -25px 100px 100px 100px;
+  padding-top: 90px;
 }
 .label-status {
   position: relative;
